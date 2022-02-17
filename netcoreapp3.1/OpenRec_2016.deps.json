@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OpenRec_2016/1.0.0": {
+        "runtime": {
+          "OpenRec_2016.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenRec_2016/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
