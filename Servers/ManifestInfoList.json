@@ -5,7 +5,7 @@
     "ManifestPatchInfo": {
       "AssemmblyURL": "https://cdn.discordapp.com/attachments/870304725218779206/871114277820457060/Assembly-CSharp.dll",
       "AssemmblyHash": "d3c7d265a1eba087b33a2b637790d0c9",
-      "PUNAppIDOffset": 165303984,
+      "PUNAppIDOffset": 526bb2e2-256b-41f4-836d-3f56011b1d01,
       "VoiceAppIDOffset": 165304024
     },
     "RequiresRecNet": true,
